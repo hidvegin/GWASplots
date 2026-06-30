@@ -1,0 +1,12 @@
+cff-version: 1.0.0
+title: "GWAS and LD visualisation scripts for maize genotyping data"
+message: "If you use these scripts, please cite this repository."
+type: R scripts
+authors:
+  - family-names: Hidvégi
+    given-names: Norbert
+    orcid: "https://orcid.org/0000-0003-3665-2724"
+repository-code: "https://github.com/hidvegin/GWASplots"
+license: GPL-3.0
+version: "v1.0.0"
+date-released: "2026-06-30"
