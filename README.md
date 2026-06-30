@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1284802813.svg)](https://doi.org/10.5281/zenodo.21077955)
+
 # Maize GWAS and LD Decay Plotting Scripts
 
 This repository contains R scripts used to generate publication-ready visualizations and summary tables from TASSEL GWAS and linkage disequilibrium (LD) output files for maize association mapping analyses.
