@@ -706,7 +706,7 @@ Remington DL et al. 2001. Structure of linkage disequilibrium and phenotypic ass
 
 ## License
 
-Please specify the license before publishing this repository. Common choices for academic code repositories include MIT, GPL-3.0, or Apache-2.0.
+GPL-3.0
 
 ## Contact
 
